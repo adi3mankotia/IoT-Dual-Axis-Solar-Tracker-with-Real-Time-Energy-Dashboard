@@ -66,7 +66,7 @@ http://10.0.0.93
 
 | INA219 Power Sensor | ESP32 Controller |
 |---|---|
-| <img src="images/ina219-power-sensor.jpg" width="400" alt="INA219 power sensor and breadboard wiring"> | <img src="images/esp32-controller.jpg" width="400" alt="ESP32 controller wired on breadboard"> |
+| <img src="images/ina219-power-sensor.jpeg" width="400" alt="INA219 power sensor and breadboard wiring"> | <img src="images/esp32-controller.jpeg" width="400" alt="ESP32 controller wired on breadboard"> |
 
 | Horizontal Servo Base |
 |---|
